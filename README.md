@@ -1,16 +1,3 @@
-# flutter_application_1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![rick1](https://github.com/OyaOzcan/rickandmorty/assets/141520129/74fee5d9-d36c-4093-bae7-5b37b66b6b7e)
+![rick3](https://github.com/OyaOzcan/rickandmorty/assets/141520129/676da312-2486-43d9-840c-6543d3c92f32)
+![rick2](https://github.com/OyaOzcan/rickandmorty/assets/141520129/a5d5e744-f030-49a0-a909-acb3b790cc21)
